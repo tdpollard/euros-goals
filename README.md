@@ -7,3 +7,6 @@ There is an assumption here that the numbers of goals scored by teams is random,
 Despite this, the random assumption does seem to give fairly realistic predictions.
 
 The script is written in python, using Jupyter.
+
+Euro_goalspg.ipynb contains the information on the previous tournaments, to get the mean number of goals per team per game for a poisson distribution
+
