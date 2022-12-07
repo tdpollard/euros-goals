@@ -1,5 +1,5 @@
 # euros-goals
-A side project I did in Summer 2020, looking at how many points a 3rd placed team will get.
+A side project I did in Summer 2021, looking at how many points a 3rd placed team will get.
 It is based on analysis from Moroney(1951), that showed that the number of goals in football is well modelled by a poisson distribution
 Using this, the number of points needed to qualify in 3rd place can be calculated.
 
@@ -9,4 +9,5 @@ Despite this, the random assumption does seem to give fairly realistic predictio
 The script is written in python, using Jupyter.
 
 Euro_goalspg.ipynb contains the information on the previous tournaments, to get the mean number of goals per team per game for a poisson distribution
+Euros_3rd_place_predictor.ipynb is the main script, which models many tournaments to find how the 3rd placed teams perform
 
